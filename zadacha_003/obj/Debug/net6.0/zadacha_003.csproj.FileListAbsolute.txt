@@ -1,0 +1,15 @@
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\ДЗ\дз 4 С#\zadacha_003\obj\Debug\net6.0\zadacha_003.csproj.AssemblyReference.cache
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\ДЗ\дз 4 С#\zadacha_003\obj\Debug\net6.0\zadacha_003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\ДЗ\дз 4 С#\zadacha_003\obj\Debug\net6.0\zadacha_003.AssemblyInfoInputs.cache
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\ДЗ\дз 4 С#\zadacha_003\obj\Debug\net6.0\zadacha_003.AssemblyInfo.cs
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\ДЗ\дз 4 С#\zadacha_003\obj\Debug\net6.0\zadacha_003.csproj.CoreCompileInputs.cache
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\ДЗ\дз 4 С#\zadacha_003\bin\Debug\net6.0\zadacha_003.exe
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\ДЗ\дз 4 С#\zadacha_003\bin\Debug\net6.0\zadacha_003.deps.json
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\ДЗ\дз 4 С#\zadacha_003\bin\Debug\net6.0\zadacha_003.runtimeconfig.json
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\ДЗ\дз 4 С#\zadacha_003\bin\Debug\net6.0\zadacha_003.dll
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\ДЗ\дз 4 С#\zadacha_003\bin\Debug\net6.0\zadacha_003.pdb
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\ДЗ\дз 4 С#\zadacha_003\obj\Debug\net6.0\zadacha_003.dll
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\ДЗ\дз 4 С#\zadacha_003\obj\Debug\net6.0\refint\zadacha_003.dll
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\ДЗ\дз 4 С#\zadacha_003\obj\Debug\net6.0\zadacha_003.pdb
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\ДЗ\дз 4 С#\zadacha_003\obj\Debug\net6.0\zadacha_003.genruntimeconfig.cache
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\ДЗ\дз 4 С#\zadacha_003\obj\Debug\net6.0\ref\zadacha_003.dll
